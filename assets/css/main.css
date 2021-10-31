@@ -54139,9 +54139,9 @@ li.setup-process-item:not(:last-child):before {
 /*# sourceMappingURL=main.css.map */
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif !important;
 }
 
 .display-1, .display-2, .display-3, .display-4, .display-5, .display-6 {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif !important;
 }
